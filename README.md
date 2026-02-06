@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)](https://www.apple.com/macos)
-[![Jamf Pro](https://img.shields.io/badge/Jamf%20Pro-10.0%2B-purple.svg)](https://www.jamf.com/products/jamf-pro/)
+[![Jamf Pro](https://img.shields.io/badge/Jamf%20Pro-11.0%2B-purple.svg)](https://www.jamf.com/products/jamf-pro/)
 
 Deployment scripts for silently installing Autodesk software with network licensing via Jamf Pro on macOS. These scripts solve the common pain point of deploying Autodesk products (AutoCAD, Maya, etc.) in enterprise/education environments where network license servers are used.
 
