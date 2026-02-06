@@ -65,10 +65,10 @@ or for Maya:
 
 ## Product Keys
 
-| Product | 2024 | 2025 | 2026 |
-|---------|------|------|------|
-| AutoCAD | 777P1 | 777Q1 | 777R1 |
-| Maya | 657P1 | 657Q1 | 657R1 |
+| Product | 2026  |
+|---------|-------|
+| AutoCAD | 777R1 |
+| Maya    | 657R1 |
 
 > Find your product key at [Autodesk Product Keys](https://knowledge.autodesk.com/customer-service/download-install/activate/find-serial-number-product-key/product-key-look)
 
